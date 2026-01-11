@@ -120,6 +120,11 @@ soyad:Altun
 
 E-posta: sudenuraltun555955@gmail.com
 
+---
+
+## ▶ 𝚈𝚘𝚞𝚝𝚞𝚋𝚎 Video
+
+[Youtube proje tanıtım videosu izlemek için tıklayın](https://youtu.be/G8WHLreBxJk?si=dT3wT343m_tXHmMJ)
 
 
 
