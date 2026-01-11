@@ -1,0 +1,9 @@
+C:\Users\SUDE NUR\Desktop\c# projelerim\LibrarySystem\LibrarySystem.MODEL\bin\Debug\LibrarySystem.MODEL.dll.config
+C:\Users\SUDE NUR\Desktop\c# projelerim\LibrarySystem\LibrarySystem.MODEL\bin\Debug\LibrarySystem.MODEL.dll
+C:\Users\SUDE NUR\Desktop\c# projelerim\LibrarySystem\LibrarySystem.MODEL\bin\Debug\LibrarySystem.MODEL.pdb
+C:\Users\SUDE NUR\Desktop\c# projelerim\LibrarySystem\LibrarySystem.MODEL\obj\Debug\LibrarySystem.MODEL.csproj.AssemblyReference.cache
+C:\Users\SUDE NUR\Desktop\c# projelerim\LibrarySystem\LibrarySystem.MODEL\obj\Debug\LibrarySystem.MODEL.Properties.Resources.resources
+C:\Users\SUDE NUR\Desktop\c# projelerim\LibrarySystem\LibrarySystem.MODEL\obj\Debug\LibrarySystem.MODEL.csproj.GenerateResource.cache
+C:\Users\SUDE NUR\Desktop\c# projelerim\LibrarySystem\LibrarySystem.MODEL\obj\Debug\LibrarySystem.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\SUDE NUR\Desktop\c# projelerim\LibrarySystem\LibrarySystem.MODEL\obj\Debug\LibrarySystem.MODEL.dll
+C:\Users\SUDE NUR\Desktop\c# projelerim\LibrarySystem\LibrarySystem.MODEL\obj\Debug\LibrarySystem.MODEL.pdb

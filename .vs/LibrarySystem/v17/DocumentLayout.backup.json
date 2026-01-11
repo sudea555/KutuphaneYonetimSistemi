@@ -1,0 +1,795 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E935BBF-6528-4CDB-A110-BFD438F63AF7}|LibrarySystem.MODEL\\LibrarySystem.MODEL.csproj|c:\\users\\sude nur\\desktop\\nyp\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E935BBF-6528-4CDB-A110-BFD438F63AF7}|LibrarySystem.MODEL\\LibrarySystem.MODEL.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E935BBF-6528-4CDB-A110-BFD438F63AF7}|LibrarySystem.MODEL\\LibrarySystem.MODEL.csproj|solutionrelative:librarysystem.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E935BBF-6528-4CDB-A110-BFD438F63AF7}|LibrarySystem.MODEL\\LibrarySystem.MODEL.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem.model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E935BBF-6528-4CDB-A110-BFD438F63AF7}|LibrarySystem.MODEL\\LibrarySystem.MODEL.csproj|solutionrelative:librarysystem.model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAL.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem.dal\\borrowdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAL.csproj|solutionrelative:librarysystem.dal\\borrowdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAL.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem.dal\\bookdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAL.csproj|solutionrelative:librarysystem.dal\\bookdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAL.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem.dal\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAL.csproj|solutionrelative:librarysystem.dal\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\memberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\memberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\borrowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\borrowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAL.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem.dal\\memberdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAL.csproj|solutionrelative:librarysystem.dal\\memberdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAL.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem.dal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAL.csproj|solutionrelative:librarysystem.dal\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\memberlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\memberlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E935BBF-6528-4CDB-A110-BFD438F63AF7}|LibrarySystem.MODEL\\LibrarySystem.MODEL.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem.model\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E935BBF-6528-4CDB-A110-BFD438F63AF7}|LibrarySystem.MODEL\\LibrarySystem.MODEL.csproj|solutionrelative:librarysystem.model\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E935BBF-6528-4CDB-A110-BFD438F63AF7}|LibrarySystem.MODEL\\LibrarySystem.MODEL.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem.model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E935BBF-6528-4CDB-A110-BFD438F63AF7}|LibrarySystem.MODEL\\LibrarySystem.MODEL.csproj|solutionrelative:librarysystem.model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAL.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAL.csproj|solutionrelative:librarysystem.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAL.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem.dal\\reportdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAL.csproj|solutionrelative:librarysystem.dal\\reportdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E935BBF-6528-4CDB-A110-BFD438F63AF7}|LibrarySystem.MODEL\\LibrarySystem.DOMA\u0130N.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem.model\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E935BBF-6528-4CDB-A110-BFD438F63AF7}|LibrarySystem.MODEL\\LibrarySystem.DOMA\u0130N.csproj|solutionrelative:librarysystem.model\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E935BBF-6528-4CDB-A110-BFD438F63AF7}|LibrarySystem.MODEL\\LibrarySystem.DOMA\u0130N.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem.model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E935BBF-6528-4CDB-A110-BFD438F63AF7}|LibrarySystem.MODEL\\LibrarySystem.DOMA\u0130N.csproj|solutionrelative:librarysystem.model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E935BBF-6528-4CDB-A110-BFD438F63AF7}|LibrarySystem.MODEL\\LibrarySystem.DOMA\u0130N.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem.model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E935BBF-6528-4CDB-A110-BFD438F63AF7}|LibrarySystem.MODEL\\LibrarySystem.DOMA\u0130N.csproj|solutionrelative:librarysystem.model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAL.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem.dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAL.csproj|solutionrelative:librarysystem.dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAO.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem.dal\\memberdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAO.csproj|solutionrelative:librarysystem.dal\\memberdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\reportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\reportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\memberlistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\memberlistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\memberlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\memberlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\memberform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\memberform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\memberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\memberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\borrowform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\borrowform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\borrowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\borrowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\booklistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\booklistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\bookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\bookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\bookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B870DBF-08D4-4963-AF0C-FA22B0324A94}|LibrarySystem UI\\LibrarySystem UI.csproj|solutionrelative:librarysystem ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E935BBF-6528-4CDB-A110-BFD438F63AF7}|LibrarySystem.MODEL\\LibrarySystem.DOMA\u0130N.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem.model\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E935BBF-6528-4CDB-A110-BFD438F63AF7}|LibrarySystem.MODEL\\LibrarySystem.DOMA\u0130N.csproj|solutionrelative:librarysystem.model\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E935BBF-6528-4CDB-A110-BFD438F63AF7}|LibrarySystem.MODEL\\LibrarySystem.DOMA\u0130N.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E935BBF-6528-4CDB-A110-BFD438F63AF7}|LibrarySystem.MODEL\\LibrarySystem.DOMA\u0130N.csproj|solutionrelative:librarysystem.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAO.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem.dal\\borrowdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAO.csproj|solutionrelative:librarysystem.dal\\borrowdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAO.csproj|C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\librarysystem.dal\\bookdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FED5461-19A7-46CF-AD3A-ECBB6484976E}|LibrarySystem.DAL\\LibrarySystem.DAO.csproj|solutionrelative:librarysystem.dal\\bookdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LibrarySystem UI\\LoginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T14:54:34.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LibrarySystem UI\\MainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T08:12:42.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MemberForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\MemberForm.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\MemberForm.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\MemberForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LibrarySystem UI\\MemberForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T21:09:46.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\Database.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.DAL\\Database.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\Database.cs",
+              "RelativeToolTip": "LibrarySystem.DAL\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T12:34:33.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookDAL.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\BookDAL.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.DAL\\BookDAL.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\BookDAL.cs",
+              "RelativeToolTip": "LibrarySystem.DAL\\BookDAL.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAgwBYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:26:24.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BorrowDAL.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\BorrowDAL.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.DAL\\BorrowDAL.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\BorrowDAL.cs",
+              "RelativeToolTip": "LibrarySystem.DAL\\BorrowDAL.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAADwvzIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:25:50.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.MODEL\\Book.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.MODEL\\Book.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.MODEL\\Book.cs",
+              "RelativeToolTip": "LibrarySystem.MODEL\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T12:09:48.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\NYP\\Member.cs",
+              "RelativeDocumentMoniker": "..\\..\\NYP\\Member.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\NYP\\Member.cs",
+              "RelativeToolTip": "..\\..\\NYP\\Member.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T20:33:31.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.MODEL\\User.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.MODEL\\User.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.MODEL\\User.cs",
+              "RelativeToolTip": "LibrarySystem.MODEL\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T08:40:10.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BorrowForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\BorrowForm.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\BorrowForm.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\BorrowForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LibrarySystem UI\\BorrowForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:27:31.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookListForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\BookListForm.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\BookListForm.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\BookListForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LibrarySystem UI\\BookListForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:13:58.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\BookForm.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\BookForm.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\BookForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LibrarySystem UI\\BookForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:41:51.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MemberDAL.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\MemberDAL.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.DAL\\MemberDAL.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\MemberDAL.cs",
+              "RelativeToolTip": "LibrarySystem.DAL\\MemberDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T12:09:24.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\DbHelper.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.DAL\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\DbHelper.cs",
+              "RelativeToolTip": "LibrarySystem.DAL\\DbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T12:09:20.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MemberListForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\MemberListForm.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\MemberListForm.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\MemberListForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LibrarySystem UI\\MemberListForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T21:24:13.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Borrow.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.MODEL\\Borrow.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.MODEL\\Borrow.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.MODEL\\Borrow.cs",
+              "RelativeToolTip": "LibrarySystem.MODEL\\Borrow.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:16:00.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.MODEL\\Category.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.MODEL\\Category.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.MODEL\\Category.cs",
+              "RelativeToolTip": "LibrarySystem.MODEL\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T12:09:52.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\Class1.cs",
+              "RelativeToolTip": "LibrarySystem.DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T12:09:15.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReportDAL.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\ReportDAL.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.DAL\\ReportDAL.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\ReportDAL.cs",
+              "RelativeToolTip": "LibrarySystem.DAL\\ReportDAL.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T19:00:34.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReportForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\ReportForm.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\ReportForm.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\ReportForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LibrarySystem UI\\ReportForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T18:46:59.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\RegisterForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "LibrarySystem UI\\RegisterForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T08:36:28.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.MODEL\\Member.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.MODEL\\Member.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.MODEL\\Member.cs",
+              "RelativeToolTip": "LibrarySystem.MODEL\\Member.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:16:51.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.MODEL\\Category.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.MODEL\\Category.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.MODEL\\Category.cs",
+              "RelativeToolTip": "LibrarySystem.MODEL\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:16:38.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.MODEL\\Book.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.MODEL\\Book.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.MODEL\\Book.cs",
+              "RelativeToolTip": "LibrarySystem.MODEL\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:16:33.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\UserDAL.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.DAL\\UserDAL.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\UserDAL.cs",
+              "RelativeToolTip": "LibrarySystem.DAL\\UserDAL.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T15:12:12.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MemberDAL.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\MemberDAL.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.DAL\\MemberDAL.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\MemberDAL.cs",
+              "RelativeToolTip": "LibrarySystem.DAL\\MemberDAL.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:16:24.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReportForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\ReportForm.Designer.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\ReportForm.Designer.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\ReportForm.Designer.cs",
+              "RelativeToolTip": "LibrarySystem UI\\ReportForm.Designer.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAArwG0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T19:34:17.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReportForm.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\ReportForm.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\ReportForm.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\ReportForm.cs",
+              "RelativeToolTip": "LibrarySystem UI\\ReportForm.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vzEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T18:48:26.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\RegisterForm.Designer.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "LibrarySystem UI\\RegisterForm.Designer.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAArwIgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T08:42:04.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\RegisterForm.cs",
+              "RelativeToolTip": "LibrarySystem UI\\RegisterForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAewC0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T08:37:03.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MemberListForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\MemberListForm.Designer.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\MemberListForm.Designer.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\MemberListForm.Designer.cs",
+              "RelativeToolTip": "LibrarySystem UI\\MemberListForm.Designer.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAArwGIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T21:28:44.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MemberListForm.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\MemberListForm.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\MemberListForm.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\MemberListForm.cs",
+              "RelativeToolTip": "LibrarySystem UI\\MemberListForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T21:26:32.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MemberForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\MemberForm.Designer.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\MemberForm.Designer.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\MemberForm.Designer.cs",
+              "RelativeToolTip": "LibrarySystem UI\\MemberForm.Designer.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAArwKIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T12:07:55.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MemberForm.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\MemberForm.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\MemberForm.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\MemberForm.cs",
+              "RelativeToolTip": "LibrarySystem UI\\MemberForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T21:13:11.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\MainForm.cs",
+              "RelativeToolTip": "LibrarySystem UI\\MainForm.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAArwFMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T21:19:07.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LibrarySystem UI\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAArwJoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T15:43:52.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\LoginForm.cs",
+              "RelativeToolTip": "LibrarySystem UI\\LoginForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T15:21:24.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BorrowForm.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\BorrowForm.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\BorrowForm.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\BorrowForm.cs",
+              "RelativeToolTip": "LibrarySystem UI\\BorrowForm.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAUwH8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:30:41.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BookListForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\BookListForm.Designer.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\BookListForm.Designer.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\BookListForm.Designer.cs",
+              "RelativeToolTip": "LibrarySystem UI\\BookListForm.Designer.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAArwGEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T12:05:15.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BorrowForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\BorrowForm.Designer.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\BorrowForm.Designer.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\BorrowForm.Designer.cs",
+              "RelativeToolTip": "LibrarySystem UI\\BorrowForm.Designer.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAArwF4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T14:32:20.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BookForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\BookForm.Designer.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\BookForm.Designer.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\BookForm.Designer.cs",
+              "RelativeToolTip": "LibrarySystem UI\\BookForm.Designer.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAArwKMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T12:04:34.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BookForm.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\BookForm.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\BookForm.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\BookForm.cs",
+              "RelativeToolTip": "LibrarySystem UI\\BookForm.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T11:46:21.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "BookListForm.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\BookListForm.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\BookListForm.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\BookListForm.cs",
+              "RelativeToolTip": "LibrarySystem UI\\BookListForm.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAowEEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T18:15:41.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\Program.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\Program.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\Program.cs",
+              "RelativeToolTip": "LibrarySystem UI\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T12:51:00.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "LibrarySystem UI\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem UI\\MainForm.Designer.cs",
+              "RelativeToolTip": "LibrarySystem UI\\MainForm.Designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAArwEwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T21:19:44.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Borrow.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.MODEL\\Borrow.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.MODEL\\Borrow.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.MODEL\\Borrow.cs",
+              "RelativeToolTip": "LibrarySystem.MODEL\\Borrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:16:35.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.MODEL\\User.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.MODEL\\User.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.MODEL\\User.cs",
+              "RelativeToolTip": "LibrarySystem.MODEL\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:17:03.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BorrowDAL.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\BorrowDAL.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.DAL\\BorrowDAL.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\BorrowDAL.cs",
+              "RelativeToolTip": "LibrarySystem.DAL\\BorrowDAL.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwDIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T16:16:13.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BookDAL.cs",
+              "DocumentMoniker": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\BookDAL.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.DAL\\BookDAL.cs",
+              "ToolTip": "C:\\Users\\SUDE NUR\\Desktop\\c# projelerim\\LibrarySystem\\LibrarySystem.DAL\\BookDAL.cs",
+              "RelativeToolTip": "LibrarySystem.DAL\\BookDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T15:50:20.093Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
