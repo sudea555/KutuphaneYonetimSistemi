@@ -90,7 +90,7 @@ Kitap Listeleme Sayfası, yönetici veya üye giriş yağtığında sistemde akt
 
 
 
-Raporlar sayfasında 3 adet buton bulunmaktadır. GÖrselde de görüldüğü üzere ilk butonumuz en çok ödünç alınan kitapları gösterir. İkinci butonumuz ise ödünç verilme tarihi geçen kitapları gösteren geciken kitaplar butonudur. Üçüncü butonumuz ise aktif olarak ödünç verilmiş olan kitapları gösteren aktif ödünçler butonudur.
+Raporlar sayfasında 3 adet buton bulunmaktadır. Görselde de görüldüğü üzere ilk butonumuz en çok ödünç alınan kitapları gösterir. İkinci butonumuz ise ödünç verilme tarihi geçen kitapları gösteren geciken kitaplar butonudur. Üçüncü butonumuz ise aktif olarak ödünç verilmiş olan kitapları gösteren aktif ödünçler butonudur.
 
 ---
 
